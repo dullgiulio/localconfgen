@@ -1,0 +1,11 @@
+{
+	"thisIsSerialized": {
+		"config": {
+			"type": "serialized"
+		},
+		"values": {
+			"test": "A test value",
+			"number": 10
+		}
+	}
+}

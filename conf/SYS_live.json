@@ -1,0 +1,11 @@
+{
+	"SYS": {
+		"values": {
+			"errorHandlerErrors": {
+				"type": "php",
+				"value": "E_ALL"
+			},
+			"anotherVar": "some value"
+		}
+	}
+}

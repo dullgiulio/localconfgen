@@ -1,0 +1,18 @@
+# A comment
+{
+	"SYS": {
+		"config": {
+			"type": "var",
+			"modules": [
+				"SYS_additional"
+			]
+		},
+		"values": {
+			"sitename": "KN Microsites",
+			"errorHandlerErrors": {
+				"type": "php",
+				"value": "E_ALL ^ E_NOTICE ^ E_DEPRECATED"
+			}
+		}
+	}
+}

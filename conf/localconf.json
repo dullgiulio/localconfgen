@@ -1,0 +1,11 @@
+{
+	"TYPO3_CONF_VARS": {
+		"config": {
+			"type": "variable",
+			"modules": [
+				"SYS",
+				"SYS_live"
+			]
+		}
+	}
+}
